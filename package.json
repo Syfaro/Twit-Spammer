@@ -1,0 +1,18 @@
+{
+  "name": "twit-spammer",
+  "version": "1.0.0",
+  "description": "annoying twitter tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitlab@git.home.foxpaw.systems:Syfaro/twit-spammer.git"
+  },
+  "author": "Syfaro",
+  "license": "CC0",
+  "dependencies": {
+    "twit": "^1.1.18"
+  }
+}
